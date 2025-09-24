@@ -1,0 +1,19 @@
+{
+  "name": "buchat-backend",
+  "version": "1.0.0",
+  "description": "Backend service for BuChat, handling APIs and core functionalities such as user management, chat rooms, authentication, and real-time messaging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabhon/BuChat-backend.git"
+  },
+  "author": "Nabhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabhon/BuChat-backend/issues"
+  },
+  "homepage": "https://github.com/nabhon/BuChat-backend#readme"
+}
